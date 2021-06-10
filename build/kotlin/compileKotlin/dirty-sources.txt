@@ -1,0 +1,5 @@
+/home/gabrielamoraes/Downloads/demo/src/main/kotlin/com/tdc/demo/MusicsRepository.kt
+/home/gabrielamoraes/Downloads/demo/src/main/kotlin/com/tdc/demo/MusicsController.kt
+/home/gabrielamoraes/Downloads/demo/src/main/kotlin/com/tdc/demo/DemoApplication.kt
+/home/gabrielamoraes/Downloads/demo/src/main/kotlin/com/tdc/demo/MusicsHandler.kt
+/home/gabrielamoraes/Downloads/demo/src/main/kotlin/com/tdc/demo/RouterConfiguration.kt
